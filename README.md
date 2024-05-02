@@ -116,7 +116,3 @@ PostgreSQL. Всю информацию о его запуске вы найдё
 * запустите заново `docker-compose up`, после того как всё исправите.
 
 Важно: команда `docker-compose rm` в каталоге с файлом `docker-compose.yml` удаляет сам контейнер.
-* db-api-for-docker.jar,
-* Dockerfile,
-* docker-compose.yml,
-* README.md со скриншотом ответа приложения.
